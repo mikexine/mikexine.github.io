@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/mikexine
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mikexine.com
+  * I am mikexine (https://keybase.io/mikexine) on keybase.
+  * I have a public key with fingerprint 761B 0E57 BB38 D818 A65B  1A31 F52F 58FE 3139 3970
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010143364ee4822ef8d8880f1030884623fc2fb50f1920b479af814a54468fe98b0a0a",
+            "fingerprint": "761b0e57bb38d818a65b1a31f52f58fe31393970",
+            "host": "keybase.io",
+            "key_id": "f52f58fe31393970",
+            "kid": "010143364ee4822ef8d8880f1030884623fc2fb50f1920b479af814a54468fe98b0a0a",
+            "uid": "15eafdde6d1b5628623504bcb48d4919",
+            "username": "mikexine"
+        },
+        "service": {
+            "hostname": "mikexine.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1463442393,
+    "expire_in": 157680000,
+    "prev": "da1dfb27b5ca07e18f7bd77802a51f9e5d99f7617391534c1465213bcfcfc30e",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMM6AnicrZJrUJRVGMeXBWHiEmgxaUtcXkcHaIP3ftkQRtiRYWkwlKAQgvdyXvYN
+2F32wj0cZPiQmYYGmkpgpGNIzYRQiSZBWGqQDTKR4oBEoghIxOTQRGvnZepL08fO
++XDmPOf//53nec4ZCPDU+Hr8FvuyG+M4m8e3fU0uTZZh140qRLBKFYihCikEqwso
+koDDmVeoSIgBQTEUIwmCJgEgWRwHMiuxLIvKGEqgLEvSOCGLuCxQMMLhqEAyHC+z
+GMlTJEmzMuBYAeVRHtEjsmIpAHabXbE4IZahMQEFFCMIBARiLE9TAsYTmEzhMgV9
+BEZwBMeg0Gi2OlQHTE7gHSBGscIY3OStpvcf+v85b9cqDqMAL0sSoCVMoGichX4K
+JQVRIFmJ5DBOFTqA3cIXA6guVgpBuWIByOt6BEZLFRGojVUr+ZciRrQWQ6/NbnVa
+RWsRPDE7nTaDanRW2FRlGRDy/mbkCYpFgm2EhlJgdyhWC2LAoFJ0KioUI2mCJHHY
+CD0Cym2KHeQpqoJiaBaFQ70GlEKkxGOSLOCMQIk8ygCMlRlBYhgWxXkKkzlASRwn
+wxdiCA6jCFKEYArHCEGU4SRQgKhVlVisiIGGafIFEOlQCiy802WHJff35XhpPHw1
+3mu06vfS+D4W9M+nQ58IfGTKnP86fDHBoAx/uvDOaNDGoVj9sU/C3KCwSbf/vrHt
+zbUxtUu6qycmJm+eq6q88nlPaNcXCZfZS1Rr2uw88nj+8FiyNviX0HVZ2Zsj/Raj
+uk9EHK8/NBbu9ULSg4fe5+NNILgzMb07uvpctikpJKoxJeXLKMkVX9M74f1o38n7
+Y+XhR9IuRP+86WP3nMfC9n73jg8aqr0ni9pMExvbV8Ie5D69fOAykmufXhzfIsSv
+MCun3NXjKS343qvNwTtuOUcyR75qpkMCBi9tGuoI042edrq1A60t1x07R1trZqrb
+DpT0DrE1csBraRe1YxsM51+aPxO7wWSPoBI2C8Zrt3w7nvtBM329tvKgFllAqLq+
+wcwjPx3+Fe/6IyEorucpedfgTFDyh7rA5j+Hf/9G3z9Xhx/Mfl4wpDXfq61/Ek31
+oW5H+GeZv49cl7b11cTUkU5T/dCd96NbMnUn7+107cnZmp4Rb+48mj/X5HhjOHfq
+wvqZtePdXXUNgq5WO2Uoa3/xzO7ZLSE5ifON4tGcd3veZidDlwZPj1Vs8zNL3Unm
+7f5+BBWcu1u0Gg/Fr0EPdy6hycHHjMtoXH4pZ/b3qTSmmnyulR1vePjWj0R6793l
+OM+zHR/djPysfeDUtukuZf3d2UC9nf3uhubKVMnZ9zIKJYR+5VnX3ot3Gp/p9PPc
+U387gw7Y7/UXnfG1Pw==
+=ZIiP
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mikexine
+
+==================================================================
